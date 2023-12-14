@@ -10,8 +10,8 @@ cancer detection. By employing different classification algorithms, we aim to ex
 compare their performance in accurately identifying whether a tumor is malignant or
 benign based on the provided attributes.
 
--Independent Variable (X) = All the columns except for the ‘Diagnosis’ variable
--Dependent Variable(y) = ‘Diagnosis’ (Predicting if a patient has cancer (1=M) or not (0=B))
+#### -Independent Variable (X) = All the columns except for the ‘Diagnosis’ variable
+#### -Dependent Variable(y) = ‘Diagnosis’ (Predicting if a patient has cancer (1=M) or not (0=B))
 
 The analysis involved data preprocessing, exploratory analysis, outlier detection, model
 building, evaluation, and comparison. Each step contributes to understanding the
