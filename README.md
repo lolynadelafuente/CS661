@@ -38,6 +38,7 @@ precision, recall, F1-score, and area under the ROC curve.
 Analyze and compare the performance metrics of each model to identify
 the most effective algorithm for breast cancer detection based on the dataset.
 
-5. Optimization and Validation: Optimize the selected models by tuning hyperparameters and
+### 5. Optimization and Validation
+Optimize the selected models by tuning hyperparameters and
 conduct cross-validation to ensure robustness and reliability of the chosen algorithm(s) for
 accurate prediction
